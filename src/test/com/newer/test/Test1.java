@@ -7,4 +7,10 @@ public class Test1 {
     public void test1(){
         System.out.println("111");
     }
+
+    @Test
+    public  void  test2(){
+        System.out.println("这是jy写的代码");
+    }
 }
+
