@@ -12,5 +12,10 @@ public class Test1 {
     public  void test3(){
         System.out.println("林志聪写了一行代码");
     }
+
+    @Test
+    public  void  test2(){
+        System.out.println("这是jy写的代码阿萨德");
+    }
 }
 
