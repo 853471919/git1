@@ -7,4 +7,11 @@ public class Test1 {
     public void test1(){
         System.out.println("111");
     }
+
+
+    @Test
+    public  void test3(){
+        System.out.println("林志聪写了一行代码");
+    }
 }
+
