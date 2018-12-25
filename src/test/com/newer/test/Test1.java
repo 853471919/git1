@@ -17,5 +17,10 @@ public class Test1 {
     public  void  test2(){
         System.out.println("这是jy写的代码阿萨德");
     }
+
+    @Test
+    public  void  test4(){
+        System.out.println("lqz");
+    }
 }
 
