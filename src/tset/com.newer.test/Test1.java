@@ -25,7 +25,7 @@ public class Test1 {
     }
     @Test
     public  void  test5(){
-        System.out.println("lqz");
+        System.out.println("额，发一次");
     }
 
 
