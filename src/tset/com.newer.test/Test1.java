@@ -40,6 +40,9 @@ public  void  test7(){
     public void  test8(){
     System.out.println("liqian");
 }
-
+    @Test
+    public void  test9(){
+        System.out.println("jdk已经改成1.8");
+    }
 }
 
