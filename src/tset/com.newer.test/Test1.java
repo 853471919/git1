@@ -36,6 +36,10 @@ public class Test1 {
 public  void  test7(){
     System.out.println("hlz");
 }
+@Test
+    public void  test8(){
+    System.out.println("liqian");
+}
 
 }
 
