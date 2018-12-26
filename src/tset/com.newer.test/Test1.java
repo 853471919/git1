@@ -28,7 +28,7 @@ public class Test1 {
     public  void  test5(){
         System.out.println("额，发一次");
     }
-
+    @Test
     public  void  test6(){
         System.out.println("额，发一次");
     }
