@@ -24,7 +24,12 @@ public class Test1 {
         System.out.println("lqz");
     }
     @Test
+
     public  void  test5(){
+        System.out.println("额，发一次");
+    }
+
+    public  void  test6(){
         System.out.println("额，发一次");
     }
 
